@@ -1,4 +1,4 @@
-# Webpack Docksearc Error
+# Webpack Docsearch Error
 
 - Clone
 - `yarn install`
